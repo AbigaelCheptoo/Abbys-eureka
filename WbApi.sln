@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WbApi", "WbApi.csproj", "{EC6CFA2F-4A5C-480B-9102-DF7A4D1A98EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17AEF587-7B34-46EA-B214-AECEDDF60C9F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6CFA2F-4A5C-480B-9102-DF7A4D1A98EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6CFA2F-4A5C-480B-9102-DF7A4D1A98EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6CFA2F-4A5C-480B-9102-DF7A4D1A98EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6CFA2F-4A5C-480B-9102-DF7A4D1A98EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A032F24-38ED-4C24-AF1A-F52CD308A5E1}
+	EndGlobalSection
+EndGlobal
