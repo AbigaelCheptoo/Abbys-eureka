@@ -38,7 +38,7 @@ app.Use(async (ctx, next) =>
 
 });
 app.UseCors(options =>
-options.WithOrigins("http://localhost:4200")
+options.WithOrigins("http://localhost:example")
   .AllowAnyMethod()
   .AllowAnyHeader());
 
